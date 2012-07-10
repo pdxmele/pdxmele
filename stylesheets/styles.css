@@ -50,6 +50,7 @@ h1, h2, h3 {
 	font-family: Arvo, Monaco, serif;
   line-height:1.3;
 	font-weight: normal;
+  color: #FF0066;
 }
 
 h1,h2, h3 {
@@ -77,8 +78,8 @@ h4, h5, h6 {
 
 /*LINK COLOR*/
 a {
-  color:#0276FD;
-  font-weight:400;
+  color:#8805A8;
+  font-weight:500;
   text-decoration:none;
 }
 
@@ -238,7 +239,7 @@ h1.header {
 
 
 h1.header{
-  color: #FF0066;
+  color: #84E900;
 }
 
 a.header, a.name, header a{
@@ -283,13 +284,13 @@ header li {
 }
 
 header li:hover {
-	background: #FF3E96;
-	background: -moz-linear-gradient(top, #FF3E96 0%, #8B0A50 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FF3E96), color-stop(100%,#8B0A50));
-  background: -webkit-linear-gradient(top, #FF3E96 0%,#8B0A50 100%);
-  background: -o-linear-gradient(top, #FF3E96 0%,#8B0A50 100%);
-  background: -ms-linear-gradient(top, #FF3E96 0%,#8B0A50 100%);
-  background: linear-gradient(top, #FF3E96 0%,#8B0A50 100%);
+	background: #EC3B86;
+	background: -moz-linear-gradient(top, #EC3B86 0%, #8B0A50 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EC3B86), color-stop(100%,#8B0A50));
+  background: -webkit-linear-gradient(top, #EC3B86 0%,#8B0A50 100%);
+  background: -o-linear-gradient(top, #EC3B86 0%,#8B0A50 100%);
+  background: -ms-linear-gradient(top, #EC3B86 0%,#8B0A50 100%);
+  background: linear-gradient(top, #EC3B86 0%,#8B0A50 100%);
 }
 
 a.buttons {
