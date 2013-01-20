@@ -326,6 +326,10 @@ a.osm {
   background: url(../images/osm.png) no-repeat 1px;
 }
 
+a.coderwall {
+  background: url(../images/coderwall.png) no-repeat 1px;
+}
+
 a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
